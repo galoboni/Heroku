@@ -1,9 +1,9 @@
 <?php
 /*Datos de conexion a la base de datos*/
-define('DB_HOST', 'localhost');//DB_HOST:  generalmente suele ser "127.0.0.1"
-define('DB_USER', 'root');//Usuario de tu base de datos
-define('DB_PASS', '');//Contraseña del usuario de la base de datos
-define('DB_NAME', 'simple_invoice');//Nombre de la base de datos
+define('DB_HOST', 'remotemysql.com');//DB_HOST:  generalmente suele ser "127.0.0.1"
+define('DB_USER', 'gj3b3nwEun');//Usuario de tu base de datos
+define('DB_PASS', 'eYB6aGAvGq');//Contraseña del usuario de la base de datos
+define('DB_NAME', 'gj3b3nwEun');//Nombre de la base de datos
  
 /*Datos de la empresa*/
 define('NOMBRE_EMPRESA', 'SISTEMAS WEB LA');
